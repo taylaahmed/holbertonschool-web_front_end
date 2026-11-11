@@ -32,8 +32,8 @@ a {
 
 .section-tagline {
     color: var(--color-primary);
-    text-transform: var(--section-header-align);
     font-weight: var(--font-weight-bold);
+    text-transform: var(--section-tagline-transform);
 }
 
 :root {
