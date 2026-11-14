@@ -423,7 +423,7 @@ a:active {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
     text-transform: var(--section-tagline-transform);
-    margin: var(--section-tageline-margin);
+    margin: var(--section-tagline-margin);
 }
 
 .container {
@@ -479,7 +479,7 @@ a:active {
     --nav-item-margin: 0 0 3rem 0;
     --nav-item-link-hover: var(--color-primary);
 
-    --section-tageline-margin: 0;
+    --section-tagline-margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
